@@ -1,6 +1,6 @@
 {
   "name": "vue-timezone-select",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "vue timezone select",
   "scripts": {
     "build": "vite build --mode production"
@@ -26,7 +26,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Lupeiwen0/vue-timezone-select.git"
   },
   "private": false,
   "devDependencies": {
